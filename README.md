@@ -11,23 +11,10 @@ This repository contains an R-based analysis of Illumina HumanMethylation450k ar
 *   **Statistical Analysis:** Identification of DMPs using the `dmpFinder` function from the `minfi` package.
 *   **Visualization:** Generation of volcano plots, Manhattan plots, and heatmaps to interpret the results.
 
-## Technologies Used
-
-*   **Language:** R
-*   **Core Packages:**
-    *   `minfi`: For processing methylation array data.
-    *   `IlluminaHumanMethylation450kmanifest`: For array annotation.
-    *   `ggplot2`: For advanced data visualization.
-    *   `pheatmap`: For creating heatmaps.
-
 
 ## Getting Started
 
 To replicate this analysis, clone the repository and follow the steps below.
-
-### Prerequisites
-
-Ensure you have R and RStudio installed on your system.
 
 ### Installation
 
